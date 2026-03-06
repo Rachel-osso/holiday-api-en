@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/holiday/info", "destination": "/api/holiday/info/index" }
+  ]
+}
